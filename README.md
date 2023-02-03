@@ -5,11 +5,11 @@ In this project, I have executed an End-To-End Data Engineering Project on Real-
 
 I have used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka,S3, Glue, Athena, and SQL.
 
-#Architecture:-
+# Architecture:-
 
 ![Architecture](https://user-images.githubusercontent.com/30840154/216561297-db7d406d-cdf5-448e-b3fd-ab513443a7fd.jpg)
 
-#Tech stack used:
+# Tech stack used:
 
 1. Programming Language - Python
 2. Amazon Web Service (AWS)
@@ -20,4 +20,5 @@ I have used different technologies such as Python, Amazon Web Services (AWS), Ap
 7. EC2
 8. Apache Kafka
 
-#Dataset Used:-
+# Dataset Used:-
+https://github.com/pawan2017/Kafka-Stock-Analysis-Project/blob/705ded6c93a871308a4c12e92e383a2c9950e109/stockdata.csv
