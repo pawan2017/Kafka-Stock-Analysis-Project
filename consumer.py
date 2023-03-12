@@ -19,7 +19,7 @@ s3 = boto3.resource('s3')
 
 # data = open('C:\\Users\\pawan\\Desktop\\kafka_stock_project\\pawan.txt', 'rb')
 # s3.Bucket('stockdata-pawan').put_object(Key='pawan.txt', Body=data)
-
+# this is for testing
 for count, i in enumerate(consumer):
     # with s3.open("s3://stockdata-pawan/stock_market_{}.json".format(count),'w') as file:
     #     json.dump(i.value, file)
